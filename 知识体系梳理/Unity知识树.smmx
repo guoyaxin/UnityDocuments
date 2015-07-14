@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSX" gen-version="1.9.8">
+    <mindmap>
+        <meta>
+            <guid guid="5EE08AA525605384633E7F89"></guid>
+            <title text="Unity引擎"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="73" x="-172.58" y="-227.86"></scrollstate>
+            <selection guid="TYSexDHPR-gmjJXeZrTCtA" type="node" id="4"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="EaSq1HMmetRwC5hwduTsJw" x="326.99" y="364.32" palette="1" colorinfo="1" text=" Unity引擎"></topic>
+            <topic id="1" parent="0" guid="d_Y-bV_Ltfsfq-R2Ffpr2w" x="277.74" y="426.95" palette="2" colorinfo="2" text="数据处理"></topic>
+            <topic id="2" parent="1" guid="K6p1iTjzyu8FSU6DVTmPXg" x="355.91" y="498.48" text="Json"></topic>
+            <topic id="3" parent="2" guid="GKKqvzsJJQRzkNkVRyE_jw" x="427.61" y="460.92" text="格式"></topic>
+            <topic id="4" parent="2" guid="TYSexDHPR-gmjJXeZrTCtA" x="428.20" y="505.72" text="解析"></topic>
+            <topic id="5" parent="2" guid="BYFzNB_aH1t81x8mXRXdMQ" x="437.54" y="531.53" text="写入"></topic>
+            <topic id="6" parent="1" guid="fsVeBEztNttADQIXLTLftQ" x="274.80" y="500.95" text="Sqlite"></topic>
+            <topic id="7" parent="6" guid="WJPQcAB89680V1h8UIoO3Q" x="219.44" y="588.18" text="创建"></topic>
+            <topic id="8" parent="6" guid="YEitq1QDPPJmhHq4C_MjNA" x="276.20" y="594.21" text="增加"></topic>
+            <topic id="9" parent="6" guid="K83BgGVtVZsQcV8_PXJsVQ" x="423.48" y="569.52" text="删除"></topic>
+            <topic id="10" parent="6" guid="DPcH4mvNyTxhLLKTJZmyoQ" x="325.47" y="582.80" text="查询"></topic>
+            <topic id="11" parent="6" guid="JtbuQFS9i6hsuvIwdFuNBA" x="370.87" y="571.62" text="修改"></topic>
+            <topic id="12" parent="1" guid="BozTkBNHiA5bEE-4DA5GxA" x="364.14" y="420.43" text="PlayerPrefs"></topic>
+            <topic id="13" parent="12" guid="aXPPmyxFuSZL9e6tD_mCfg" x="447.03" y="394.50" text="写入"></topic>
+            <topic id="14" parent="12" guid="MyGnalfnbt5pJCP2MecFbg" x="438.09" y="432.77" text="读取"></topic>
+            <topic id="15" parent="1" guid="JNSluikxJg1fGeUjUKJnOg" x="214.00" y="495.75" text="XML"></topic>
+            <topic id="16" parent="15" guid="Dp57qG-LRGIOFNOPZzJMGA" x="195.29" y="550.57" text="格式"></topic>
+            <topic id="17" parent="15" guid="Z5hfnhtZNF4jRoKoXi8Gsw" x="167.38" y="472.79" text="解析"></topic>
+            <topic id="18" parent="15" guid="JI4njRsav8MC0tG9PmHA7g" x="156.53" y="515.16" text="写入"></topic>
+            <topic id="19" parent="0" guid="cAg8EkJsLAw3vFr1UFDpvQ" x="180.34" y="406.29" palette="3" colorinfo="3" text="导航系统"></topic>
+            <topic id="20" parent="19" guid="Fm9o_h5A1a5cRAzxI2Zw4A" x="45.92" y="412.64" text="Navigation介绍"></topic>
+            <topic id="21" parent="20" guid="Cg6e6j1wv4RJACOCMOWNKg" x="-66.16" y="412.67" text="Object"></topic>
+            <topic id="22" parent="20" guid="WDjYxg3tiXcuC0qZfQ1-gA" x="-65.74" y="445.67" text="Bake"></topic>
+            <topic id="23" parent="20" guid="SQKdwQBRaeckyWWBfCRFKw" x="-71.37" y="372.21" text="Layers"></topic>
+            <topic id="24" parent="19" guid="Nx6vhA0lL7xNr-W6Rb0rLQ" x="49.74" y="444.57" text="NavMeshAgent组件"></topic>
+            <topic id="25" parent="19" guid="fLB0H1vEuUos73dFbLiwMQ" x="45.49" y="495.71" text="NavmeshObstacle组件"></topic>
+            <topic id="26" parent="19" guid="HjDlVmSr0js9CZnuNKBOVA" x="43.99" y="531.37" text="OffMeshLink组件"></topic>
+            <topic id="27" parent="26" guid="Auyn6RlNpt9YBr81DPtG0w" x="-32.50" y="580.88" text="自动"></topic>
+            <topic id="28" parent="26" guid="Vr5mZCEG4rc94NP9aOyxkA" x="-65.52" y="524.39" text="手动"></topic>
+            <topic id="29" parent="0" guid="VsH4aWMh7iwBp9BNH8SWKg" x="232.19" y="340.33" palette="4" colorinfo="4" text="动画系统"></topic>
+            <topic id="30" parent="29" guid="Y3NYFCZxNc8b6NtVO6ww2g" x="155.63" y="332.13" text="Mecanim"></topic>
+            <topic id="31" parent="30" guid="QtXjeH2ME-k0_4IJRcKLYQ" x="141.02" y="287.55" text="动画片段"></topic>
+            <topic id="32" parent="31" guid="GdOZYU5ZD9gpcudoDZQtvw" x="87.15" y="237.83" text="动画分割"></topic>
+            <topic id="33" parent="31" guid="JoWy4k4GmfFkyBoyJSOLvA" x="105.66" y="198.66" text="动画曲线"></topic>
+            <topic id="34" parent="31" guid="DoMn0HeoN35YICPcGPPbnQ" x="182.92" y="204.67" text="动画遮罩"></topic>
+            <topic id="35" parent="31" guid="Q0IEJXaaKsd6feUVFUVl4A" x="153.64" y="150.61" text="动画事件"></topic>
+            <topic id="36" parent="30" guid="NF6_Rkn0Je44ua9aa31uyw" x="267.90" y="258.18" text="Avator"></topic>
+            <topic id="37" parent="36" guid="dpanFQk08y931D0bJKPLCg" x="343.81" y="224.93" text="肌肉设定"></topic>
+            <topic id="38" parent="36" guid="c2JhJmmQZdc2dyD6Cjwb7g" x="320.29" y="191.38" text="骨骼调整"></topic>
+            <topic id="39" parent="30" guid="VxlVqwZplRQxOpn4U8nJyg" x="75.57" y="321.34" text="动画状态机"></topic>
+            <topic id="40" parent="39" guid="CnCzzUuZzKYeegbrYYoJeA" x="-7.74" y="302.91" text="动画分层"></topic>
+            <topic id="41" parent="39" guid="KGZAXg09MhYhw1aEa6hEgw" x="63.55" y="279.60" text="动画融合树"></topic>
+            <topic id="42" parent="41" guid="UgNhu0-0oOM1U9NCNDGwGQ" x="-11.08" y="225.78" text="2D融合"></topic>
+            <topic id="43" parent="41" guid="Ld6yIHXWTT00kOPOcLSVmQ" x="-38.15" y="265.31" text="1D融合"></topic>
+            <topic id="44" parent="39" guid="fp3Y2UB8jd4S4B1MMvyYIA" x="38.74" y="370.29" text="动画过程"></topic>
+            <topic id="45" parent="44" guid="ekxTFzC-CN81HQ46CM965w" x="-17.98" y="343.60" text="参数设置"></topic>
+            <topic id="46" parent="30" guid="Yi5OXl4qET1Agnn7AF8ztA" x="186.70" y="257.14" text="IK"></topic>
+            <topic id="47" parent="30" guid="Ftm6yA0GQT5SvdI0bZghLA" x="245.54" y="219.72" text="动画重定向"></topic>
+            <topic id="48" parent="29" guid="Lg0j9RCepjJWhNK9BM8cXg" x="265.59" y="294.67" text="Animation"></topic>
+            <topic id="49" parent="48" guid="c8CUXlgsowokk7KJVzPscg" x="345.61" y="272.92" text="动画片段"></topic>
+            <topic id="50" parent="0" guid="Rk7Lqi_RuFdJdxX5dC19yg" x="496.48" y="522.34" palette="5" colorinfo="5" text="网络"></topic>
+            <topic id="51" parent="50" guid="b9tGdncxReocv67FDMxxgA" x="548.05" y="487.53" text="Socket编程"></topic>
+            <topic id="52" parent="50" guid="KRPg_w-ky0peMrcIIfbVPQ" x="562.27" y="537.08" text="MasterServer"></topic>
+            <topic id="53" parent="52" guid="PShxbjwIFJhoGN47T1PSeQ" x="636.88" y="546.72" text="注册"></topic>
+            <topic id="54" parent="52" guid="eI95cSKdBSIP5gWNZbPZsA" x="621.01" y="506.47" text="获取服务器"></topic>
+            <topic id="55" parent="50" guid="WPd0pD0LMmpGk-1_KUgadg" x="477.14" y="567.90" text="网络通信协议"></topic>
+            <topic id="56" parent="50" guid="HCPUsEEbkJskqwkMRcs-ZA" x="556.12" y="586.71" text="NetWork"></topic>
+            <topic id="57" parent="56" guid="NDfxrh224yU16PecJBM4JA" x="626.77" y="639.21" text="NetWorkView组件"></topic>
+            <topic id="58" parent="57" guid="Yk1xrA8SYK1f8t9MWtzrHQ" x="634.51" y="696.23" text="RPC"></topic>
+            <topic id="59" parent="57" guid="FOgpD1KopmEw36mkPfwKDg" x="555.09" y="692.04" text="状态同步"></topic>
+            <topic id="60" parent="56" guid="BYPKRlAOdXkcLT9jRg3tfA" x="541.21" y="623.13" text="Network类"></topic>
+            <topic id="61" parent="50" guid="Ma9lz2_Y5NlAkMTObtfXPQ" x="477.68" y="642.63" text="网络资源获取"></topic>
+            <topic id="62" parent="61" guid="ZbTVcwS_lzUuIIiMAdiqIw" x="490.03" y="690.13" text="HTTP"></topic>
+            <topic id="63" parent="61" guid="K-D5cSipowk-K6m2BNhuFQ" x="413.18" y="690.86" text="WWW与协成"></topic>
+            <topic id="64" parent="50" guid="Rdsn0FLLkZhHo-iHS17yFg" x="665.88" y="598.64" text="网络数据库的获取"></topic>
+            <topic id="65" parent="64" guid="AYgLEEdV1y57JTDkFnA0Hw" x="708.02" y="630.25" text="GET"></topic>
+            <topic id="66" parent="64" guid="ItoHEWPRJ-sRbN-SVxH4vw" x="734.56" y="586.58" text="POST"></topic>
+            <topic id="67" parent="0" guid="JagFlH4H-cdk4hNjGQpmug" x="516.45" y="415.30" palette="6" colorinfo="6" text="UI"></topic>
+            <topic id="68" parent="67" guid="A9dc3RxBO5kA7apjSiYohw" x="582.35" y="422.03" text="控件"></topic>
+            <topic id="69" parent="68" guid="QGNCMBnKIflU8WnZJhgXpA" x="684.69" y="416.31" text="基础控件"></topic>
+            <topic id="70" parent="68" guid="Hom5LgMR8mUn8MHHZGTg_w" x="679.16" y="449.64" text="高级控件"></topic>
+            <topic id="71" parent="68" guid="Vd2D_W-Uqk8vw9MVeLeLDg" x="726.84" y="383.90" text="动画"></topic>
+            <topic id="72" parent="67" guid="TBLz8EpkwFw-U6ZRcbr5hA" x="578.78" y="457.30" text="事件"></topic>
+            <topic id="73" parent="72" guid="CIaJ1krutLJrXhFpIoUHZg" x="718.40" y="508.23" text="注册事件"></topic>
+            <topic id="74" parent="73" guid="FDoFsD1r1QJ0Lsn4MsO-3w" x="807.27" y="545.94" text="鼠标"></topic>
+            <topic id="75" parent="73" guid="DbNwI3pv47doemsoThayVA" x="825.60" y="496.38" text="键盘"></topic>
+            <topic id="76" parent="73" x="855.64" y="520.34" text="屏幕"></topic>
+            <topic id="77" parent="73" guid="dvOPOj_KT5ce0PaiMgrKcA" x="813.44" y="588.10" text="第三方设备"></topic>
+            <topic id="78" parent="73" x="887.07" y="463.16" text="摇杆"></topic>
+            <topic id="79" parent="72" guid="U2XSOkEwsqhPyYPOVO3dSg" x="733.33" y="470.96" text="回调事件"></topic>
+            <topic id="80" parent="0" guid="SGy6JCM1ubUKxWA-MAUZwg" x="465.87" y="344.23" palette="7" colorinfo="7" text="渲染系统"></topic>
+            <topic id="81" parent="80" guid="BO41FGIrz90yQVL8CMWR8Q" x="525.06" y="344.61" text="形状"></topic>
+            <topic id="82" parent="81" guid="fm0LdjMu_V9S67p4Sn__Zw" x="572.27" y="313.33" text="网格"></topic>
+            <topic id="83" parent="82" guid="QIojNmQpfDUBiaPBb9sKIA" x="564.50" y="268.27" text="顶点"></topic>
+            <topic id="84" parent="82" guid="fZO9uxE_YMk8OvjrRgB33w" x="599.15" y="235.78" text="三角面"></topic>
+            <topic id="85" parent="81" guid="NHUafkcAWSp2BZGicwQIkQ" x="577.32" y="366.44" text="摄像机"></topic>
+            <topic id="86" parent="85" guid="dQw8EQQ5shhWIR4xPjLeuw" x="685.50" y="332.36" text="深度"></topic>
+            <topic id="87" parent="85" guid="FUCkS3ef9L9wzVEBUo1PpQ" x="707.62" y="294.25" text="窗口区域"></topic>
+            <topic id="88" parent="85" guid="ZRS5-zNhRcUKJk4WA0eIFg" x="695.98" y="360.10" text="投影模式"></topic>
+            <topic id="89" parent="88" guid="LLqXS3wh6Ys4xg_IKyeiwg" x="799.49" y="313.05" text="透视"></topic>
+            <topic id="90" parent="88" guid="L1Dm6guxykB1p6IpLOSkpQ" x="806.72" y="359.12" text="正交"></topic>
+            <topic id="91" parent="85" guid="KxJIw0qOx25J4JaPMAB91w" x="623.07" y="299.90" text="剪裁面"></topic>
+            <topic id="92" parent="91" guid="HPErCjHimxRy5RyFUWZFiA" x="650.99" y="282.22" text="近"></topic>
+            <topic id="93" parent="91" guid="eOL0PmjqridEak4abe8wTw" x="638.95" y="253.43" text="远"></topic>
+            <topic id="94" parent="80" guid="Po7uEy4L4ucONCB2Yx0VoA" x="490.77" y="302.01" text="色"></topic>
+            <topic id="95" parent="94" guid="SSaiqhEG8jMhftaOMppyRg" x="462.38" y="262.50" text="Shader"></topic>
+            <topic id="96" parent="95" guid="EithCxzvYAxU8lQvd0AbBg" x="453.98" y="132.49" text="固定功能管线着色器"></topic>
+            <topic id="97" parent="95" guid="UFCl0l8YokV6h6Mce2LulQ" x="487.61" y="174.69" text="表面着色器"></topic>
+            <topic id="98" parent="95" guid="bSRgPxqLbEssIg8LAmUEig" x="417.36" y="207.46" text="顶点片段着色前"></topic>
+            <topic id="99" parent="94" guid="PUyrWW10xTtCk_TEN5j-cQ" x="519.01" y="268.78" text="贴图"></topic>
+            <topic id="100" parent="99" guid="HjLOG3exAv5AaHlYRpkOeQ" x="497.75" y="214.58" text="主贴图"></topic>
+            <topic id="101" parent="99" guid="KadptERoOasrY2xtVmIA_w" x="548.57" y="222.96" text="法线贴图"></topic>
+            <topic id="102" parent="0" guid="fK77b1OtGAZz3-PsYpWGiQ" x="377.77" y="88.75" palette="2" colorinfo="2" text="物理系统"></topic>
+            <topic id="103" parent="102" guid="Z3yEEUj5sq1H3BhWXPN4FQ" x="333.75" y="37.52" text="Rigidbody"></topic>
+            <topic id="104" parent="103" guid="dAu9QScCQEY9LK9NE49L2Q" x="284.02" y="1.67" text="重力"></topic>
+            <topic id="105" parent="103" guid="Ov8tR2Tf3_Ymq981Qu6-9Q" x="314.82" y="-17.33" text="阻力"></topic>
+            <topic id="106" parent="103" guid="cK6ihEixGZs6NDOmbV2d8w" x="355.12" y="-37.25" text="轴锁定"></topic>
+            <topic id="107" parent="102" guid="Qqf0pkZFGBdrPiUBesA8Hw" x="394.80" y="16.49" text="collider"></topic>
+            <topic id="108" parent="107" guid="HKFlVWxEvLhn_2fDBB3pZg" x="451.40" y="-28.57" text="碰撞"></topic>
+            <topic id="109" parent="107" guid="HF4xoS4UF5JP8yR8Ztg3Bw" x="405.69" y="-47.20" text="触发"></topic>
+            <topic id="110" parent="102" guid="KAw64UAiPbQAm5KjX-_y2Q" x="455.85" y="50.92" text="characterController"></topic>
+            <topic id="111" parent="110" x="523.14" y="18.32" text="移动"></topic>
+            <topic id="112" parent="110" x="542.05" y="80.85" text="碰撞"></topic>
+            <topic id="113" parent="102" guid="SnoFZm6NTcMcUZg7AScwvA" x="280.70" y="61.06" text="joint"></topic>
+            <topic id="114" parent="113" x="215.30" y="42.41" text="弹簧属性"></topic>
+            <topic id="115" parent="113" x="206.47" y="102.34" text="马达"></topic>
+            <topic id="116" parent="113" x="217.63" y="-16.59" text="链接属性"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>
