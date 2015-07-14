@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSX" gen-version="1.5.1">
+    <mindmap>
+        <meta>
+            <title text="Additional features in\NSimpleMind Full Edition"></title>
+            <page orientation="poLandscape" paperwidth="297.04" paperheight="420.16">
+                <margins left="25.40" top="25.40" right="25.40" bottom="25.40"></margins>
+            </page>
+            <style key="system.bright-palette"></style>
+            <scrollstate zoom="100"></scrollstate>
+            <selection id="0"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" x="569.83" y="296.85" colorinfo="1" text="Additional features in\NSimpleMind Full Edition"></topic>
+            <topic id="1" parent="0" x="548.12" y="199.06" colorinfo="2" text="Full Exchange\Nwith SimpleMind Touch"></topic>
+            <topic id="2" parent="1" x="675.52" y="103.34" text="On Touch:\NImport Custom Styles\Ncreated on desktop"></topic>
+            <topic id="3" parent="1" x="475.74" y="102.65" text="On Touch:\NSave and Open Mind Maps\Nto/from desktop"></topic>
+            <topic id="4" parent="0" x="355.29" y="220.56" colorinfo="3" text="Manage Mind Maps"></topic>
+            <topic id="5" parent="4" x="174.54" y="142.88" text="Organize in Folders"></topic>
+            <topic id="6" parent="0" x="616.10" y="377.30" colorinfo="4" text="Share Your Ideas"></topic>
+            <topic id="7" parent="6" x="755.96" y="362.05" text="Email"></topic>
+            <topic id="8" parent="6" x="733.76" y="441.11" text="Export Mind Maps"></topic>
+            <topic id="9" parent="8" x="672.26" y="509.08" text="opml"></topic>
+            <topic id="10" parent="8" x="594.57" y="508.39" text="freemind"></topic>
+            <topic id="11" parent="8" x="749.25" y="509.78" text="png"></topic>
+            <topic id="12" parent="8" x="815.15" y="495.91" text="pdf"></topic>
+            <topic id="13" parent="4" x="147.48" y="185.18" text="Search on Title or Topic"></topic>
+            <topic id="14" parent="0" x="411.47" y="357.19" colorinfo="5" text="Advanced Editor"></topic>
+            <topic id="15" parent="14" x="191.33" y="409.21" text="Re-layout sub tree"></topic>
+            <topic id="16" parent="14" x="203.12" y="360.66" icon="ok" text="Select icon"></topic>
+            <topic id="17" parent="14" x="316.19" y="461.23" text="Add Cross Links"></topic>
+            <topic id="18" parent="14" x="177.46" y="459.84" text="Hyperlinks between\NMind Maps"></topic>
+            <topic id="19" parent="4" x="173.84" y="226.80" text="Navigation History"></topic>
+            <topic id="20" parent="14" x="351.56" y="506.31" text="Add Notes to Topics"></topic>
+            <topic id="21" parent="14" x="449.37" y="458.45" text="Collapse/ Expand\Nbranches"></topic>
+            <topic id="22" parent="14" x="247.52" y="312.80" text="Multiple Mind Maps\Non single Page"></topic>
+            <topic id="23" parent="6" x="590.87" y="444.58" text="Import Mind Maps"></topic>
+            <topic id="24" parent="7" x="838.02" y="402.27" text="Include\Nattachments"></topic>
+            <topic id="25" parent="8" x="838.04" y="457.76" text="text"></topic>
+            <topic id="26" parent="0" x="757.61" y="244.14" colorinfo="6" text="Create Custom Styles"></topic>
+            <topic id="27" parent="26" x="860.12" y="196.28" text="Border style"></topic>
+            <topic id="28" parent="26" x="885.09" y="234.43" text="Line style"></topic>
+            <topic id="29" parent="26" x="854.57" y="278.12" text="Colors"></topic>
+        </topics>
+        <relations>
+            <relation source="23" target="9"></relation>
+            <relation source="23" target="10"></relation>
+            <relation source="24" target="8"></relation>
+            <relation source="26" target="2"></relation>
+        </relations>
+    </mindmap>
+</simplemind-mindmaps>
